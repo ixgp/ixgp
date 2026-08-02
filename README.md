@@ -11,8 +11,8 @@
 ```
 
 <p align="left">
-  <img src="C.png" alt="C" width="45" height="45" style="margin-right: 15px;" />
-  <img src="C++.jpg" alt="C++" width="45" height="45" style="margin-right: 15px;" />
-  <img src="Assembly.jpg" alt="Assembly" width="45" height="45" style="margin-right: 15px;" />
-  <img src="Wireshark.png" alt="Wireshark" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="C" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://githubusercontent.com" alt="C++" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://githubusercontent.com" alt="Assembly" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://githubusercontent.com" alt="Wireshark" width="45" height="45" />
 </p>
