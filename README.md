@@ -2,7 +2,7 @@
 
 ```text
 • Exploit development & Reverse Engineering
-• ixgp @github
+• Osint & Linux
 ```
 
 ```text
