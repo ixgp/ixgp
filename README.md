@@ -13,9 +13,9 @@
 &nbsp;
 
 <p align="left">
-  <img src="https://jsdelivr.net" alt="C" width="40" height="40" style="background: #00599C; padding: 5px; border-radius: 4px; margin-right: 5px;"/>
-  <img src="https://jsdelivr.net" alt="C++" width="40" height="40" style="background: #00599C; padding: 5px; border-radius: 4px; margin-right: 5px;"/>
-  <img src="https://jsdelivr.net" alt="Assembly" width="40" height="40" style="background: #4B6A9C; padding: 5px; border-radius: 4px; margin-right: 5px;"/>
-  <img src="https://jsdelivr.net" alt="Linux" width="40" height="40" style="background: #FCC624; padding: 5px; border-radius: 4px; margin-right: 5px;"/>
-  <img src="https://jsdelivr.net" alt="Wireshark" width="40" height="40" style="background: #167EBA; padding: 5px; border-radius: 4px;"/>
+  <img src="https://githubusercontent.com" alt="C" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://githubusercontent.com" alt="C++" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://githubusercontent.com" alt="Assembly" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://githubusercontent.com" alt="Linux" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://githubusercontent.com" alt="Wireshark" width="45" height="45" />
 </p>
