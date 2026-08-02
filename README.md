@@ -12,4 +12,10 @@
 
 &nbsp;
 
-![C](https://shields.io) ![C++](https://shields.io) ![Assembly](https://shields.io) ![Linux](https://shields.io) ![Wireshark](https://shields.io)
+<p align="left">
+  <img src="https://githubusercontent.com" alt="C" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="C++" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/> &nbsp;
+  <img src="https://shields.io" alt="Assembly" style="vertical-align: middle; margin-right: 10px;"/> &nbsp;
+  <img src="https://shields.io" alt="Linux" style="vertical-align: middle; margin-right: 10px;"/> &nbsp;
+  <img src="https://shields.io" alt="Wireshark" style="vertical-align: middle;"/>
+</p>
