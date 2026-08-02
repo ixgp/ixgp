@@ -10,8 +10,6 @@
 • 🔏 Low-level programming and malware analysis.
 ```
 
-&nbsp;
-
 <p align="left">
   <img src="https://githubusercontent.com" alt="C" width="45" height="45" style="margin-right: 15px;" />
   <img src="https://githubusercontent.com" alt="C++" width="45" height="45" style="margin-right: 15px;" />
