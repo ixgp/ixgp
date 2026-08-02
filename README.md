@@ -1,6 +1,8 @@
+### Hi 👋, I'm Vieira
+
 ```text
 • Exploit development & Reverse Engineering
-• ### Hi 👋, I'm [Vieira]
+• ixgp @github
 ```
 
 ```text
@@ -11,9 +13,9 @@
 <br>
 
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="Assembly" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Wireshark" />
 </p>
