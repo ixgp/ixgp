@@ -20,12 +20,12 @@
     </td>
     <td align="center" width="20"></td>
     <td align="center">
-      <img src="C++.png" alt="C++" width="45" height="45" /><br />
+      <img src="C++.jpg" alt="C++" width="45" height="45" /><br />
       <sub><b>C++</b></sub>
     </td>
     <td align="center" width="20"></td>
     <td align="center">
-      <img src="Assembly.png" alt="Assembly" width="45" height="45" /><br />
+      <img src="Assembly.jpg" alt="Assembly" width="45" height="45" /><br />
       <sub><b>Assembly</b></sub>
     </td>
     <td align="center" width="20"></td>
