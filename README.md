@@ -10,9 +10,33 @@
 • 🔏 Low-level programming and malware analysis.
 ```
 
-<p align="left">
-  <img src="https://jsdelivr.net" alt="C" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://jsdelivr.net" alt="C++" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://jsdelivr.net" alt="Assembly" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://jsdelivr.net" alt="Wireshark" width="45" height="45" />
-</p>
+&nbsp;
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://jsdelivr.net" alt="C" width="45" height="45" /><br />
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="20"></td>
+    <td align="center">
+      <img src="https://jsdelivr.net" alt="C++" width="45" height="45" /><br />
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="20"></td>
+    <td align="center">
+      <img src="https://jsdelivr.net" alt="Assembly" width="45" height="45" /><br />
+      <sub><b>Assembly</b></sub>
+    </td>
+    <td align="center" width="20"></td>
+    <td align="center">
+      <img src="https://jsdelivr.net" alt="Linux" width="45" height="45" /><br />
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="20"></td>
+    <td align="center">
+      <img src="https://jsdelivr.net" alt="Wireshark" width="45" height="45" /><br />
+      <sub><b>Wireshark</b></sub>
+    </td>
+  </tr>
+</table>
