@@ -13,9 +13,9 @@
 &nbsp;
 
 <p align="left">
-  <img src="https://githubusercontent.com" alt="C" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="C++" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/> &nbsp;
-  <img src="https://shields.io" alt="Assembly" style="vertical-align: middle; margin-right: 10px;"/> &nbsp;
-  <img src="https://shields.io" alt="Linux" style="vertical-align: middle; margin-right: 10px;"/> &nbsp;
-  <img src="https://shields.io" alt="Wireshark" style="vertical-align: middle;"/>
+  <img src="https://jsdelivr.net" alt="C" width="40" height="40" style="background: #00599C; padding: 5px; border-radius: 4px; margin-right: 5px;"/>
+  <img src="https://jsdelivr.net" alt="C++" width="40" height="40" style="background: #00599C; padding: 5px; border-radius: 4px; margin-right: 5px;"/>
+  <img src="https://jsdelivr.net" alt="Assembly" width="40" height="40" style="background: #4B6A9C; padding: 5px; border-radius: 4px; margin-right: 5px;"/>
+  <img src="https://jsdelivr.net" alt="Linux" width="40" height="40" style="background: #FCC624; padding: 5px; border-radius: 4px; margin-right: 5px;"/>
+  <img src="https://jsdelivr.net" alt="Wireshark" width="40" height="40" style="background: #167EBA; padding: 5px; border-radius: 4px;"/>
 </p>
