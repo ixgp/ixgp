@@ -10,12 +10,6 @@
 • 🔏 Low-level programming and malware analysis.
 ```
 
-<br>
+&nbsp;
 
-<p align="left">
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Assembly" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Wireshark" />
-</p>
+![C](https://shields.io) ![C++](https://shields.io) ![Assembly](https://shields.io) ![Linux](https://shields.io) ![Wireshark](https://shields.io)
